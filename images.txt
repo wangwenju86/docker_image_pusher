@@ -9,7 +9,7 @@ registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
 
 canal/canal-server:v1.1.4
 minio/minio:RELEASE.2022-01-08T03-11-54Z.hotfix.f533071b4
-
+rabbitmq:3.9.11-management
 
 
 
